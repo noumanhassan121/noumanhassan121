@@ -1,14 +1,38 @@
-<h1 align="center">Hi 👋, I'm Nouman Hassan</h1>
-<h3 align="center">I'm a Full Stack Web Developer | Backend Logic (PHP/MySQL) & Responsive Frontend Design , from Pakistan</h3>
+# 👋 Hi, I'm [Your Name]
 
-- 🌱 I’m currently learning **Python**
+**🎓 Junior Web Developer | 2nd Year Student | Full Stack in Progress**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nouman hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouman hassan" height="30" width="40" /></a>
-</p>
+I'm a passionate Junior Web Developer currently studying in my second year and building real projects to sharpen my development skills. I work with **HTML, CSS, JavaScript, PHP, and MySQL** and I’m currently learning **Python** to grow as a full stack developer.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noumanhassan121&show_icons=true&locale=en&layout=compact" alt="noumanhassan121" /></p>
+## 🚀 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, MySQL, Python (learning)  
+- **Tools:** VS Code, Git, GitHub, XAMPP  
+- **Interest Areas:** Web Development, Problem Solving, Responsive Design  
+
+---
+
+## 💻 What I'm Working On
+- Expanding backend development with Python  
+- Building personal and academic projects
+- Improving UI/UX and responsive layouts
+- Preparing for internships & freelance work  
+
+---
+
+## 📌 Current Status
+- 📍 2nd Year Student (2024 - Present)
+- 👨‍💻 Junior Web Developer (Self-Learning & Projects)
+- 📢 Open to internships, collaborations, and beginner-friendly projects
+
+---
+
+## 📫 Reach Me
+- LinkedIn: *www.linkedin.com/in/nouman-hassan-*
+- Email: *Add your email here*
+
+---
+
+⭐ **Feel free to explore my repositories and watch my progress as I grow!**
