@@ -1,20 +1,21 @@
-<h1 align="center">👋 Hi, I'm Nouman </h1>
-<h3 align="center">Junior Web Developer | 2nd Year Student | Full Stack Developer in Progress</h3>
+<h1 align="center">👋 Hi, I'm Nouman Hassan</h1>
+<h3 align="center">Junior Full Stack Developer | 2nd Year Student | Building Skills & Real Projects</h3>
 
 ---
 
 ### 🚀 About Me
-I’m a **Junior Web Developer** and a **second-year student** currently building real-world web projects to grow my skills. I work with **HTML, CSS, JavaScript, PHP, and MySQL** and I am learning **Python** to strengthen my backend development.
+I am a **Junior Full Stack Developer** and a **second-year student** passionate about creating functional and responsive web applications.  
+I work on both the **frontend and backend**, using technologies like **HTML, CSS, JavaScript, PHP, MySQL**, and I'm currently enhancing my backend ability with **Python**.
 
-I’m passionate about building responsive websites, learning modern development practices, and preparing for internships or collaboration opportunities.
+I enjoy problem-solving, writing clean code, and learning new technologies to grow as a developer. I’m open to collaboration, internships, and opportunities to build real-world projects.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -26,19 +27,11 @@ I’m passionate about building responsive websites, learning modern development
 
 ---
 
-### 📂 Current Focus
-- 📌 Improving backend concepts with Python  
-- 🔧 Building projects using PHP & MySQL  
-- 🌍 Developing responsive web interfaces  
-- 🎯 Preparing for internships & freelance work
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
+### 📌 Current Focus
+- 🌱 Strengthening backend logic with Python  
+- 🧩 Building full-stack projects (frontend + backend)  
+- 🛠️ Practicing problem solving & debugging  
+- 🎯 Preparing for internships and real-world experience  
 
 ---
 
@@ -50,5 +43,4 @@ I’m passionate about building responsive websites, learning modern development
 
 ---
 
-⭐ **Thanks for visiting! Feel free to check my repositories and follow my journey.**  
-
+⭐ **Thanks for visiting! Check out my repositories to follow my journey as a Full Stack Developer.**
